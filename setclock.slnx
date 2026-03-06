@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="setclock.vcxproj" Id="69a84f53-f846-49fc-92b9-3edc9e3fff32" />
+</Solution>
